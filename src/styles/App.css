@@ -1,0 +1,14 @@
+/* App.css */
+.app {
+    display: flex;
+}
+
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+    width: calc(100% - 250px);
+}
+
+button {
+    cursor: pointer;
+}

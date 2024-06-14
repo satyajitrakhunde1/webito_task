@@ -1,0 +1,50 @@
+/* InquiryList.css */
+.inquiry-list {
+    padding: 20px;
+}
+
+.inquiry-list .add-inquiry-btn {
+    background: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.inquiry-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.inquiry-list table th,
+.inquiry-list table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+/* src/components/InquiryList.css */
+.inquiry-list {
+    padding: 20px;
+}
+
+.inquiry-list .add-inquiry-btn {
+    background: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.inquiry-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.inquiry-list table th,
+.inquiry-list table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
