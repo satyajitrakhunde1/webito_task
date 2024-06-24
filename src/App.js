@@ -5,7 +5,7 @@ import ProductList from './components/ProductList';
 import InquiryList from './components/InquiryList'; 
 import OrderHistory from './components/OrderHistory';
 import './App.css';
-
+ 
 const App = () => {
   return (
     <div className="app">
